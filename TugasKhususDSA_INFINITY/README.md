@@ -1,15 +1,12 @@
 <div id="top"></div>
 <br/>
 <div align="center">
-  <a href="https://www.jakarta.go.id/">
-    <img src="images/Logo Jakarta.png" alt="Pemerintah Provinsi DKI Jakarta" width="80" height="80">
   </a>
 
-  <h2 align="center">Dashboard Informasi Banjir Provinsi DKI Jakarta</h3>
+  <h2 align="center">DASHBOARD BENCANA BANJIR PROVINSI DKI JAKARTA</h3>
 
   <p align="center">
-    Waspadai bencana banjir Jakarta bersama-sama!
+    <br /> 
     <br />
-    <br />
-    <a href="https://public.tableau.com/app/profile/zulhan.andika.asyraf/viz/DashboardBanjirProvinsiDKIJakarta/Dashboard"><strong>Buka dashboard »</strong></a>
-    <h5>Harap buka dashboard secara full screen</h5>
+    <a href="[https://public.tableau.com/app/profile/zulhan.andika.asyraf/viz/DashboardBanjirProvinsiDKIJakarta/Dashboard](https://public.tableau.com/views/DASHBOARDBENCANABANJIRPROVINSIDKIJAKARTA/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)https://public.tableau.com/views/DASHBOARDBENCANABANJIRPROVINSIDKIJAKARTA/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link"><strong>Buka dashboard »</strong></a>
+    <h5>Disarankan untuk membuka dashboard secara full screen</h5>
