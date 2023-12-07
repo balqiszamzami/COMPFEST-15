@@ -8,5 +8,5 @@
   <p align="center">
     <br /> 
     <br />
-    <a href="[https://public.tableau.com/app/profile/zulhan.andika.asyraf/viz/DashboardBanjirProvinsiDKIJakarta/Dashboard](https://public.tableau.com/views/DASHBOARDBENCANABANJIRPROVINSIDKIJAKARTA/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)https://public.tableau.com/views/DASHBOARDBENCANABANJIRPROVINSIDKIJAKARTA/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link"><strong>Buka dashboard »</strong></a>
+    <a href="https://public.tableau.com/views/DASHBOARDBENCANABANJIRPROVINSIDKIJAKARTA/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link"><strong>Buka dashboard »</strong></a>
     <h5>Disarankan untuk membuka dashboard secara full screen</h5>
